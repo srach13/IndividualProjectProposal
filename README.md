@@ -4,10 +4,11 @@ Designing a house, apartment, or dorm room can be a fun and exciting task, but i
 ## Project Relevance
 This project is relevant to the educational goals of Graphic User Interface as outlined in CIS 3296. Graphic User Interface is a type of user interface through which users interact with electronic devices via visual indicator representations. This is an important goal because it can drastically improve usability. Graphic User Interface enhances the efficiency and ease of use for users. In addition to supporting the goal of Graphic User Interface, this project is also relevant to the goals of Project Management, Version Control, Testing, and Debugging. Through contributing to this project, my team and I will gain practical application in all these learning objectives.
 ## Conceptual Design
-For my contribution to this project, I will focus on adding more features to enhance the application. For example, I will add more interior design features such as the ability to add a roof, which is currently not available in the current version. I will also contribute by debugging the application as reviewers have mentioned bugs related to importing furniture, customizing colors, etc.
+For my contribution to this project, I will focus on adding more features to enhance the application. For example, I will add more interior design features such as the ability to add a roof, which is currently not available in the current version. I will also contribute by debugging the application as reviewers have mentioned bugs related to importing furniture, customizing colors, etc. The language used is JavaScript. 
 ## Background
 Link to project:
 https://sourceforge.net/projects/sweethome3d/
+
 Link to code:
 https://sourceforge.net/p/sweethome3d/code/HEAD/tree/_
 ### Building and Running
